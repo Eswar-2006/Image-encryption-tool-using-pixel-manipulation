@@ -1,0 +1,4 @@
+Python 3.6+
+Pillow for image processing:
+bash / in vscode terminal : 
+pip install Pillow
